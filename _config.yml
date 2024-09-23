@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jeremie Theddy Darmawan / Site Title"
+title                    : "Jeremie Theddy Darmawan"
 title_separator          : "-"
 name                     : &name "Jeremie"
 description              : &description "personal description"
