@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Jeremie Theddy Darmawan"
 title_separator          : "-"
 name                     : &name "Jeremie"
-description              : &description "personal description"
+description              : &description "About me"
 url                      : https://jeremietd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jeremietd/jeremietd.github.io"
@@ -21,7 +21,7 @@ repository               : "jeremietd/jeremietd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : 
+  avatar           : "Photo 30_10.jpg"
   name             : "Jeremie Theddy Darmawan"
   pronouns         : # example: "she/her"  
   bio              : "MSc student in Precision Health & Medicine at the National University of Singapore"
