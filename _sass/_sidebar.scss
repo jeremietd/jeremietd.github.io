@@ -129,12 +129,12 @@
 }
 
 .sidebar .author__desktop {
-  display: none;
+  display: grid;
   @media screen and (min-width: 1030px) {
-    display: block;
-    // white-space: normal;
-    // word-wrap: break-word;
-    // overflow: visible;
+    display: grid;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow: visible;
   }
 }
 
@@ -243,7 +243,7 @@
   }
 
   li {
-    white-space: normal;
+    white-space: nowrap;
   }
 
   a {
