@@ -129,9 +129,9 @@
 }
 
 .sidebar .author__desktop {
-  display: grid;
+  display: none;
   @media screen and (min-width: 1030px) {
-    display: grid;
+    display: flex;
     white-space: normal;
     word-wrap: break-word;
     overflow: visible;
