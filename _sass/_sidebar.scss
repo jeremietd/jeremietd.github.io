@@ -132,6 +132,7 @@
   display: none;
   @media screen and (min-width: 1030px) {
     display: flex;
+    gap: 5px;
     align-items: center;
     white-space: normal;
     word-wrap: break-word;
