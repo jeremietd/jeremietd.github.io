@@ -132,6 +132,7 @@
   display: none;
   @media screen and (min-width: 1030px) {
     display: flex;
+    align-items: center;
     white-space: normal;
     word-wrap: break-word;
     overflow: visible;
